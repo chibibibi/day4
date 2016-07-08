@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: #A3B0CC;
+  color: white;
+  text-align: center;
+  background: url('http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/watercolor-grunge/watercolor-grunge-000020-pale-blue-pine.jpg')
+}
+
+.jumboButton a {
+  padding:20px 35px;
+  background-color: #F1D463;
+  text-decoration: none;
+  color:#061240;
+  border-radius: 6px;
+}
+.caption {
+  text-align: center;
+}
